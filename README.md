@@ -1,5 +1,5 @@
 # POS-System
-Project to polish and improve c#, winforms and sql knowledge
+Personal project to polish and improve c#, winforms and sql knowledge
 
 Note: the barcode generator requires the user to copy the "Code 128" & "EAN-13" font files into "C:\Windows\Fonts" folder. Otherwise, the generator will not work as desired.
 
