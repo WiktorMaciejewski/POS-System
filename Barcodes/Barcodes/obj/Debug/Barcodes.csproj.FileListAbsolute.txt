@@ -1,0 +1,11 @@
+C:\Users\Wiktor\source\repos\Barcodes\Barcodes\bin\Debug\Barcodes.exe.config
+C:\Users\Wiktor\source\repos\Barcodes\Barcodes\bin\Debug\Barcodes.exe
+C:\Users\Wiktor\source\repos\Barcodes\Barcodes\bin\Debug\Barcodes.pdb
+C:\Users\Wiktor\source\repos\Barcodes\Barcodes\obj\Debug\Barcodes.csprojAssemblyReference.cache
+C:\Users\Wiktor\source\repos\Barcodes\Barcodes\obj\Debug\Barcodes.BarcodeGenerator.resources
+C:\Users\Wiktor\source\repos\Barcodes\Barcodes\obj\Debug\Barcodes.Properties.Resources.resources
+C:\Users\Wiktor\source\repos\Barcodes\Barcodes\obj\Debug\Barcodes.csproj.GenerateResource.cache
+C:\Users\Wiktor\source\repos\Barcodes\Barcodes\obj\Debug\Barcodes.csproj.CoreCompileInputs.cache
+C:\Users\Wiktor\source\repos\Barcodes\Barcodes\obj\Debug\Barcodes.exe
+C:\Users\Wiktor\source\repos\Barcodes\Barcodes\obj\Debug\Barcodes.pdb
+C:\Users\Wiktor\source\repos\Barcodes\Barcodes\obj\Debug\Barcodes.AddNewProduct.resources
